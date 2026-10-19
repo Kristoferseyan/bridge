@@ -1,0 +1,8 @@
+[
+  {"id": "work", "label": "Work", "config_dir": "~/.claude-work", "inbox": "~/work/_inbox",
+   "tmux": "work", "container": "work-box", "cwd": "~/work", "color": "#ff966c"},
+  {"id": "side", "label": "Side", "config_dir": "~/.claude-side", "inbox": "~/side/_inbox",
+   "tmux": "side", "container": "side-box", "cwd": "~/side", "color": "#4fd6be"},
+  {"id": "main", "label": "Main account", "preset_label": "Server (main account)", "config_dir": "~/.claude",
+   "inbox": "~/inbox", "tmux": "admin", "container": null, "cwd": "~", "color": "#82aaff"}
+]
